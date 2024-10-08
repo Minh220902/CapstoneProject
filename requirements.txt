@@ -1,0 +1,12 @@
+opencv-python~=4.9.0.80
+dbr~=9.6.40.1
+pillow~=10.3.0
+pyzmq~=26.0.2
+djitellopy~=2.5.0
+pyzbar~=0.1.9
+numpy~=1.24.4
+setuptools~=49.2.1
+pyserial~=3.5
+paho-mqtt~=2.1.0
+pygame~=2.6.0
+inputs~=0.5
